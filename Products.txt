@@ -1,0 +1,5 @@
+15 chairs 1 10.0
+12 tables 19 500.0
+1 LCDs 4 2005.0
+2 laptops 10 1000.0
+3 keyboards 21 10.0

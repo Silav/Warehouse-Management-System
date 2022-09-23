@@ -1,0 +1,4 @@
+Wilson hello 123 Cashier
+Norris_Salah _salah 123 Manager
+Manager_02 @manager 123 Manager
+david_S #david 123 Cashier
